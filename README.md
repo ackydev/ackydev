@@ -1,5 +1,6 @@
 # 💫 About Me:
-An ordinary student who tries to do his best!
+Hi, I'm 15 years old and I'm an information security student, I intend to be a SOC analyst in the future, I'm currently studying C++
+However, I have skills with other languages ​​too!
 
 
 ## 🌐 Socials:
@@ -13,6 +14,5 @@ An ordinary student who tries to do his best!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ackydev&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ackydev&icon=4&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
