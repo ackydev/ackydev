@@ -1,9 +1,9 @@
-<p align="center"><img src="https://i.pinimg.com/originals/3c/f4/42/3cf442eb0574a06127a2db3a6bd6e633.gif"/></p>
+<img src="https://i.pinimg.com/originals/3c/f4/42/3cf442eb0574a06127a2db3a6bd6e633.gif"/>
 
-<p align="center">About me:</p>
-<p align="center">Hi, I'm 15 years old and I'm an information security student</p>
-<p align="center">I intend to be a SOC analyst in the future, I'm currently studying C++</p>
-<p align="center">However, I have skills with other languages ​​too!</p>
+# About me:
+<p>Hi, I'm 15 years old and I'm an information security student</p>
+<p>I intend to be a SOC analyst in the future, I'm currently studying C++</p>
+<p></p>However, I have skills with other languages ​​too!</p>
 
 # 💻 Back-end:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
