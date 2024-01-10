@@ -1,6 +1,5 @@
-
+<center><img src="https://i.pinimg.com/originals/3c/f4/42/3cf442eb0574a06127a2db3a6bd6e633.gif"/></center>
 # 😀 About me:
-Some things about me:\n
 Hi, I'm 15 years old and I'm an information security student
 I intend to be a SOC analyst in the future, I'm currently studying C++
 However, I have skills with other languages ​​too!
