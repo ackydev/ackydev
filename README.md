@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/3c/f4/42/3cf442eb0574a06127a2db3a6bd6e633.gif"/>
+<p align="center"><img src="https://i.pinimg.com/originals/3c/f4/42/3cf442eb0574a06127a2db3a6bd6e633.gif"/></p>
 
 # 😀 About me:
 Hi, I'm 15 years old and I'm an information security student,
