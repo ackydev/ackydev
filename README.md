@@ -4,7 +4,7 @@
   
   <h1>About me:</h1>
   <p>Hi, I'm 15 years old and I'm an information security student</p>
-  <p>I intend to be a SOC analyst in the future, I'm currently studying C++</p>
+  <p>I intend to be a SOC analyst in the future</p>
   <p></p>However, I have skills with other languages ​​too!</p>
   
   # 💻 Back-end:
